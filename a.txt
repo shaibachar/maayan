@@ -1,6 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is B01B-9829
-
- Directory of C:\workspace\temp\maayan
-
-
+shalom shalom
