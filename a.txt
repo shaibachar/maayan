@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B01B-9829
+
+ Directory of C:\workspace\temp\maayan
+
+06/30/2024  05:53 PM    <DIR>          .
+06/30/2024  05:52 PM    <DIR>          ..
+06/30/2024  05:53 PM                 0 a.txt
+06/30/2024  05:52 PM                19 README.md
+               2 File(s)             19 bytes
+               2 Dir(s)  104,072,019,968 bytes free
